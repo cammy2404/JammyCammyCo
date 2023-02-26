@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JammyCammyCo/static/css/main.073c9b0a.css",
+    "main.js": "/JammyCammyCo/static/js/main.ac5b4c74.js",
+    "static/js/787.2b52971e.chunk.js": "/JammyCammyCo/static/js/787.2b52971e.chunk.js",
+    "static/media/logo.svg": "/JammyCammyCo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/JammyCammyCo/index.html",
+    "main.073c9b0a.css.map": "/JammyCammyCo/static/css/main.073c9b0a.css.map",
+    "main.ac5b4c74.js.map": "/JammyCammyCo/static/js/main.ac5b4c74.js.map",
+    "787.2b52971e.chunk.js.map": "/JammyCammyCo/static/js/787.2b52971e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac5b4c74.js"
+  ]
+}
